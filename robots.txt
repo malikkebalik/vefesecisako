@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://vefesecisako.pages.dev/sitemap.xml
